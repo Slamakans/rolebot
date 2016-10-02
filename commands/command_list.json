@@ -1,0 +1,86 @@
+{
+    "activevotes": [
+        "votes",
+        "activepolls",
+        "polls"
+    ],
+    "addrole": [
+        "add"
+    ],
+    "addvote": [
+        "createpoll",
+        "newvote",
+        "newpoll",
+        "addpoll"
+    ],
+    "cancelvote": [
+        "cancel",
+        "removevote",
+        "killvote",
+        "removepoll",
+        "killpoll",
+        "cancelpoll"
+    ],
+    "clear": [],
+    "eval": [
+        "e"
+    ],
+    "giveadmin": [
+        "makeadmin",
+        "setadmin"
+    ],
+    "help": [
+        "commands"
+    ],
+    "joinrole": [
+        "join",
+        "become"
+    ],
+    "leaverole": [
+        "leave",
+        "abandon",
+        "renounce"
+    ],
+    "ping": [
+        "p",
+        "pingaling"
+    ],
+    "prefix": [],
+    "removeadmin": [
+        "remadmin",
+        "killadmin",
+        "fuckadmin",
+        "dieadmin",
+        "remouladsås"
+    ],
+    "removerole": [
+        "remove",
+        "rem"
+    ],
+    "roles": [
+        "listroles",
+        "occupations",
+        "listoccupations"
+    ],
+    "slaveinfo": [
+        "sinfo",
+        "slavestats",
+        "stats"
+    ],
+    "testimage": [],
+    "updatecommandlist": [
+        "ucl",
+        "reloadcommandlist",
+        "rcl"
+    ],
+    "vote": [],
+    "voteinfo": [
+        "pollinfo",
+        "pinfo",
+        "vinfo",
+        "votestats",
+        "pollstats",
+        "vstats",
+        "pstats"
+    ]
+}
